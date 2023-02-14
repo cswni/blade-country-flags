@@ -29,7 +29,7 @@ This package is using SVG flags provided by [flag-icon-css](https://github.com/l
 ## Installation
 
 ```bash
-composer require stijnvanouplines/blade-country-flags
+composer require cswni/blade-country-flags
 ```
 
 ## Blade Icons
